@@ -1,0 +1,1 @@
+/* Asks user to guessa hidden number */
